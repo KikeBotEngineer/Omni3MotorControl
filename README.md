@@ -3,7 +3,7 @@
 
 ## Characteristics
 - Autonomous navigation
-- Adjustable PID control
+- PID control
   
 ## Author
 **Enrique (Kike)**  
